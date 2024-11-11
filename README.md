@@ -1,6 +1,6 @@
 # Simple-Conversational-App
-
 This application is developed using the OpenAI and LangChain to provide simple conversation facility. To make it user interactive, UI and functions are created with Streamlit Web development in Python.
+
 ---
 title: ChatModelApp
 emoji: ⚡
